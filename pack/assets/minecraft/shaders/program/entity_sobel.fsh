@@ -1,13 +1,3 @@
-// DE: Hallo, da du offensichtlich gerade versuchst unsere Shader zu klauen, möchte ich dich freundlich darauf hinweisen, dass
-// man normalerweise bevor man Code klaut wenigstens nachfragt, ob man diesen benutzen darf. Sollte eigentlich
-// Common Sense sein, aber leider ist das nicht so. Wir behalten uns das Recht vor rechtlich gegen Urheberrechtsverletzungen
-// vorzugehen.
-
-// EN: Hello, since you are obviously trying to steal our shaders, I would like to kindly point out that
-// normally, before stealing code, you at least ask if you are allowed to use it. Should actually be
-// common sense, but unfortunately this is not the case. We reserve the right to take legal action
-// against copyright infringement.
-
 #version 150
 
 #define COLOR_BLACK vec3(0./255., 0./255., 0./255.)
