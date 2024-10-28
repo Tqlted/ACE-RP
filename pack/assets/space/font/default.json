@@ -23,7 +23,7 @@
 			"height": -2,
 			"chars": ["󀀀"]
 		},
-		{ "type": "space", "advances": { "󀀁": -1e400, "󟿿": 1e400 } },
+		{ "type": "space", "advances": { "󀀁": -1.8e308, "󟿿": 1.8e308 } },
 		{
 			"type": "space",
 			"advances": {
