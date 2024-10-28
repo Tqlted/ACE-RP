@@ -25,7 +25,7 @@ jobs:
                       output_file_path = '/tmp/pack.zip'
 
                       # Extreme squashing
-                      zip_spec_conformance_level = ''disregard'
+                      zip_spec_conformance_level = 'disregard'
 
                       # Ignore shaders
                       ['**/*?.{fsh,vsh,glsl}']
