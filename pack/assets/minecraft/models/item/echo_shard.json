@@ -1,0 +1,146 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/echo_shard"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "custom/weapons/chainsaw"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "custom/weapons/plunger"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "custom/weapons/hammer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "custom/weapons/katana"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "custom/weapons/mace"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "custom/weapons/mjolnir"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "custom/weapons/sword_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 8
+      },
+      "model": "custom/weapons/wizard_wand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 9
+      },
+      "model": "custom/weapons/flamethrower"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 10
+      },
+      "model": "custom/weapons/viking_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 11
+      },
+      "model": "custom/weapons/double_axe"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 12
+      },
+      "model": "custom/weapons/guitar"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 13
+      },
+      "model": "custom/weapons/ak47"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 14
+      },
+      "model": "custom/weapons/desert_eagle"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 15
+      },
+      "model": "custom/weapons/greatsword"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 101
+      },
+      "model": "custom/other/medkit"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 102
+      },
+      "model": "custom/other/burger"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 201
+      },
+      "model": "custom/hats/straw_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 202
+      },
+      "model": "custom/hats/wizard_hat"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 501
+      },
+      "model": "custom/other/shop"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 502
+      },
+      "model": "custom/other/tavern"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 503
+      },
+      "model": "custom/other/enchanting"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 504
+      },
+      "model": "custom/other/smithing"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/coin.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["⛃"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/1px.png",
+			"ascent": 500,
+			"height": 5000,
+			"chars": ["▒"]
+		}
+    ]
+}
