@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/emojis.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["12345"]
+		}
+    ]
+}

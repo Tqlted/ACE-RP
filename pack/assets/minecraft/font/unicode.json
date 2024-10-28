@@ -1,0 +1,32 @@
+{
+    "providers": [
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/coin.png",
+			"ascent": 8,
+			"height": 9,
+			"chars": ["⛃"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/coins.png",
+			"ascent": 11,
+			"height": 16,
+			"chars": ["⛁"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/1px.png",
+			"ascent": 500,
+			"height": 5000,
+			"chars": ["▒"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:font/trophy.png",
+			"ascent": 10,
+			"height": 12,
+			"chars": ["⭐"]
+		}
+    ]
+}

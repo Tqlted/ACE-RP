@@ -1,0 +1,64 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "custom/other/medkit",
+		"particle": "custom/other/medkit"
+	},
+	"elements": [
+		{
+			"name": "medikit",
+			"from": [6, 0, 5],
+			"to": [9, 2, 10],
+			"faces": {
+				"north": {"uv": [6, 9, 9, 10.5], "texture": "#0"},
+				"east": {"uv": [6, 0, 11.5, 2], "texture": "#0"},
+				"south": {"uv": [6, 9, 9, 10.5], "texture": "#0"},
+				"west": {"uv": [6, 4, 11.5, 6], "texture": "#0"},
+				"up": {"uv": [0, 5.5, 3, 11], "texture": "#0"},
+				"down": {"uv": [0, 0, 3, 5.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 71, 0],
+			"translation": [1.5, 14.75, 0],
+			"scale": [2, 2, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-1.23, 7.54, -80.13],
+			"translation": [14, 1.75, -5.5],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 66, 0],
+			"translation": [7.5, 20.75, -15.75],
+			"scale": [4, 4, 4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-27.5, 0, 43.25],
+			"translation": [6.25, 3.75, -30.75],
+			"scale": [4, 4, 4]
+		},
+		"ground": {
+			"rotation": [7, 0, 13],
+			"translation": [0, 11.75, 0],
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"rotation": [32, 35, 0],
+			"translation": [2, 14.25, 0],
+			"scale": [2.5, 2.5, 2.5]
+		},
+		"head": {
+			"rotation": [-180, 90, 180],
+			"translation": [2, 37.5, 0],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [1.75, 2, -32],
+			"scale": [4, 4, 4]
+		}
+	}
+}

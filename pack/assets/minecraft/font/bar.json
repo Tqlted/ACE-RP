@@ -1,0 +1,12 @@
+{
+    "providers": [
+        {"type":"space","advances":{"":-1}},
+        {
+			"type": "bitmap",
+			"file": "minecraft:font/logo.png",
+			"ascent": 40,
+			"height": 75,
+			"chars": ["\uE400"]
+		}
+    ]
+}
