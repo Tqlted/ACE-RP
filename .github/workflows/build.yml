@@ -26,9 +26,10 @@ jobs:
 
             #           # Don't touch shaders
             #           shader_source_transformation_strategy = 'keep_as_is'
-            - uses: montudor/action-zip@v1
-                with:
-                    args: zip -qq -r tmp/pack.zip pack
+            - name: Zip pack
+              uses: montudor/action-zip@v1
+              with:
+                args: zip -qq -r tmp/pack.zip pack
             - name: Tag and create release
               uses: softprops/action-gh-release@v2
               with:
