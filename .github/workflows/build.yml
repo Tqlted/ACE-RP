@@ -23,6 +23,9 @@ jobs:
                       # Set a custom output file path to work with the generated ZIP file
                       # without needing to download its artifact in a separate step
                       output_file_path = '/tmp/pack.zip'
+
+                      # Don't touch shaders
+                      shader_source_transformation_strategy = 'keep_as_is'
             - name: Tag and create release
               uses: softprops/action-gh-release@v2
               with:
