@@ -5,8 +5,15 @@
             "type": "bitmap",
             "file": "minecraft:font/menus/shop.png",
             "ascent": 13,
-            "height": 107,
+            "height": 89,
             "chars": ["1"]
+        },
+        {   
+            "type": "bitmap",
+            "file": "minecraft:font/menus/profile.png",
+            "ascent": 13,
+            "height": 89,
+            "chars": ["2"]
         }
     ]
 }
