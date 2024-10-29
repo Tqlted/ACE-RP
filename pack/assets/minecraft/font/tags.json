@@ -5,7 +5,7 @@
 			"file": "minecraft:font/tags.png",
 			"ascent": 8,
 			"height": 9,
-			"chars": ["1","2","3","4","5"]
+			"chars": ["1","2","3","4","5","6"]
 		}
     ]
 }
