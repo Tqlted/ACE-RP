@@ -51,6 +51,13 @@ TEXT_EFFECT(240, 240, 20) { // #F0F014
     apply_thin_outline(rgb(0,0,0));
 }
 
+// FIGHT TITLE
+TEXT_EFFECT(240, 240, 32) { // #F0F020
+    apply_metalic(rgb(251, 113, 133));
+    override_shadow_color(rgb(0,0,0));
+    apply_waving_movement(1.2,0.7);
+}
+
 // VOTE TEXT
 TEXT_EFFECT(240, 240, 236) { // #F0F0EC
     apply_rainbow();

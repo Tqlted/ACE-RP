@@ -5,7 +5,7 @@
             "type": "bitmap",
             "file": "minecraft:font/menus/shop.png",
             "ascent": 13,
-            "height": 89,
+            "height": 71,
             "chars": ["1"]
         },
         {   

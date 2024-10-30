@@ -28,6 +28,11 @@
 {"predicate": {"custom_model_data": 102}, "model": "custom/items/freeze"},
 {"predicate": {"custom_model_data": 103}, "model": "custom/items/reduced_prices"},
 {"predicate": {"custom_model_data": 104}, "model": "custom/items/xray"},
+{"predicate": {"custom_model_data": 105}, "model": "custom/items/double_jump"},
+{"predicate": {"custom_model_data": 106}, "model": "custom/items/increased_crits"},
+{"predicate": {"custom_model_data": 107}, "model": "custom/items/vampirism"},
+{"predicate": {"custom_model_data": 108}, "model": "custom/items/speed"},
+
 {"predicate": {"custom_model_data": 201}, "model": "custom/hats/straw_hat"},
 {"predicate": {"custom_model_data": 202}, "model": "custom/hats/wizard_hat"},
 
