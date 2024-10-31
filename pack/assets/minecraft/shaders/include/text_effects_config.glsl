@@ -58,6 +58,13 @@ TEXT_EFFECT(240, 240, 32) { // #F0F020
     apply_waving_movement(1.2,0.7);
 }
 
+// CRITICAL HIT
+TEXT_EFFECT(240, 240, 36) { // #F0F024
+    apply_metalic(rgb(252, 165, 165));
+    apply_outline(rgb(153, 27, 27));
+    
+}
+
 // VOTE TEXT
 TEXT_EFFECT(240, 240, 236) { // #F0F0EC
     apply_rainbow();
